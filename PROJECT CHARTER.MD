@@ -59,5 +59,4 @@ The objective is to analyze the current (as-is) loan process, identify bottlenec
 ---
 
 ## Project Charter
-
-Please refer to the attached [AlphaBank_LoanProcess_ProjectCharter.pdf](./AlphaBank_LoanProcess_ProjectCharter.pdf) for the full project charter document.
+CHECK THE PROJECT CHARTER [AlphaBank Project Charter](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/ALPHA%20BANK%20PROJECT%20CHARTER.pdf) for the full project charter document.
