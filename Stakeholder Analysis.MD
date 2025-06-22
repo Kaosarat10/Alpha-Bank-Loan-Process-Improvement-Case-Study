@@ -14,4 +14,4 @@ This step is important because a successful digital loan system must work for ev
 
 This is one of the most important steps in business analysis — knowing who you’re designing for, and how to get them involved.
 
-[View Stakeholder Analysis Document](./AlphaBank_Stakeholder_Analysis.pdf)
+[View Stakeholder Analysis Document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Alpha%20Bank%20Stakeholder%20Analysis.pdf)
