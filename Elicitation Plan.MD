@@ -1,4 +1,4 @@
-### Day 3 – Requirement Elicitation Plan
+###  Requirement Elicitation Plan
 
 Today’s focus was on planning how to gather detailed requirements for the Alpha Bank loan process redesign.
 
@@ -16,5 +16,5 @@ The goal was to understand the loan workflow, identify pain points, and uncover 
 
 **Documents:**
 
-- [Requirement Elicitation Plan](./AlphaBank_Elicitation_Plan.pdf)
-- [Interview Questions](./AlphaBank_Interview_Questions.pdf)
+- [Requirement Elicitation Plan](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Elicitation%20Plan%20(ALPHA%20BANK).pdf)
+- [Interview Questions](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Interview%20Question.pdf)
