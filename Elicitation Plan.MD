@@ -1,4 +1,4 @@
-###  Requirement Elicitation Plan
+#  Requirement Elicitation Plan
 
 Today’s focus was on planning how to gather detailed requirements for the Alpha Bank loan process redesign.
 
