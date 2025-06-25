@@ -2,7 +2,7 @@
 
 Today’s focus was on planning how to gather detailed requirements for the Alpha Bank loan process redesign.
 
-I conducted a focused interview with a seasoned Relationship Manager at a Nigerian bank who shared deep insights from multiple perspectives — loan officer, credit analyst, and frontline staff engaging directly with loan applicants.
+I conducted a focused interview with a seasoned Relationship Manager at a Nigerian bank who shared deep insights from multiple perspectives: loan officer, credit analyst, and frontline staff engaging directly with loan applicants.
 
 The goal was to understand the loan workflow, identify pain points, and uncover what features a new digital system must have to improve both customer and staff experience.
 
