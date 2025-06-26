@@ -10,7 +10,7 @@ This phase focused on gathering essential requirements for redesigning the loan 
 To ensure the requirements reflect real-world conditions, I used three key sources:
 
 ### 1. Primary Interview  
-A live, structured interview was conducted with **Eke Elise**, a ** Business Relationship Manager at a Bank Nigeria**, who has over five years of experience in loan processing.  
+A live, structured interview was conducted with **Eke Elise**, a **Business Relationship Manager at a Bank Nigeria**, who has over five years of experience in loan processing.  
 Through this conversation, I gathered insights from three perspectives:
 - **Loan Applicant** (customer view)  
 - **Relationship Manager** (staff/user view)  
