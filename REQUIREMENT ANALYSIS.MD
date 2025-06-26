@@ -46,6 +46,7 @@ It is structured using key business questions and highlights bottlenecks, user n
 ### 📄 Stakeholder Register  
 A structured spreadsheet identifying key stakeholders, their interests, pain points, level of influence, and what they expect from the new system.  
 **[View document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Stakeholder%20Register.xlsx)**
+
 **[View document Image](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Stakeholder%20Register.png)**
 
 
