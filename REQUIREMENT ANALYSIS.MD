@@ -36,16 +36,19 @@ This gave visibility into the user-side experience of digital lending in Nigeria
 
 ### 📄 Interview Transcript  
 Captures a detailed record of the live discussion with the Sterling Bank professional, outlining the loan process, bottlenecks, compliance checks, and customer frustrations.  
-**[View document](INSERT_LINK_HERE)**
+**[View document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Interview%20Transcript.pdf)**
 
 ### 📄 Requirement Gathering Report  
 This report compiles insights from all three sources — the interview, online bank research, and Specta app reviews.  
 It is structured using key business questions and highlights bottlenecks, user needs, and expected improvements.  
-**[View document](INSERT_LINK_HERE)**
+**[View document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/REQUIREMENT%20REPORT.pdf)**
 
 ### 📄 Stakeholder Register  
 A structured spreadsheet identifying key stakeholders, their interests, pain points, level of influence, and what they expect from the new system.  
-**[View document](INSERT_LINK_HERE)**
+**[View document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Stakeholder%20Register.xlsx)**
+**[View document Image](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Stakeholder%20Register.png)**
+
+
 
 
 ---
