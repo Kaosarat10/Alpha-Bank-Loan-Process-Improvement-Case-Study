@@ -30,7 +30,7 @@ To map the actual loan approval process from start to finish, capturing all deci
 ##  Flowchart: Current (As-Is) Process
 
   
-> [ **View the full As-Is process diagram:**](link-to-your-flowchart-image-or-PDF)
+> [ **View the full As-Is process diagram:**](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Alpha%20bank%20AS%20-IS%20Process.drawio%20(3).png)
 
 
 ---
