@@ -29,7 +29,7 @@ To define the business needs, I followed this structured method:
 - Cause: Determine why the issue is happening  
 - Business Need: Propose a viable solution that addresses the root cause and improves process efficiency and user experience
 
-This approach ensured that each proposed improvement directly responded to real issues and aligned with the Nigerian banking environment.
+This approach ensured that each proposed improvement directly address the real issues and aligned with the Company goals
 
 ---
 
