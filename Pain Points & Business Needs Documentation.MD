@@ -1,4 +1,4 @@
-# Alpha Bank Loan Process Improvement  
+ 
 ## Pain Points & Business Needs Documentation
 
 ---
