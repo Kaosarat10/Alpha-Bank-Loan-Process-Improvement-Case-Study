@@ -35,5 +35,5 @@ This approach ensured that each proposed improvement directly address the real i
 
 ##  Documents
 
-- [View Pain Points Document](#)  
-- [View Business Needs Document](#)
+- [View Pain Points Document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/ALPHA%20BANK%20PAIN%20POINT%20(IDENTIFIED).pdf)  
+- [View Business Needs Document](https://github.com/Kaosarat10/Alpha-Bank-Loan-Process-Improvement-Case-Study/blob/main/Business%20NEEDS%20(ALPHA%20BANK).pdf)
